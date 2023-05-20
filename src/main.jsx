@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Formulario from './components/formulario'
+import Formulario from './components/Formulario'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
